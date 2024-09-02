@@ -1,0 +1,4 @@
+[12-Jun-2021 21:44:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'Asset@ODIRS2021'@'localhost' (using password: YES) in /home/odirsorg/public_html/asset.org/includes/config.php on line 2
+[12-Jun-2021 21:53:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'Asset@ODIRS2021'@'localhost' (using password: YES) in /home/odirsorg/public_html/asset.org/includes/config.php on line 2
+[12-Jun-2021 21:53:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'Asset@ODIRS2021'@'localhost' (using password: YES) in /home/odirsorg/public_html/asset.org/includes/config.php on line 2
+[12-Jun-2021 21:54:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'Asset@ODIRS2021'@'localhost' (using password: YES) in /home/odirsorg/public_html/asset.org/includes/config.php on line 2

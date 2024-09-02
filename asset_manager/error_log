@@ -1,0 +1,84 @@
+[04-Jun-2021 08:22:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/odirscom/public_html/asset.com/ict_admin/includes/header.php on line 124
+[04-Jun-2021 08:23:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/odirscom/public_html/asset.com/ict_admin/includes/header.php on line 124
+[04-Jun-2021 08:23:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/odirscom/public_html/asset.com/ict_admin/includes/header.php on line 124
+[04-Jun-2021 08:37:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[04-Jun-2021 08:37:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 18
+[04-Jun-2021 08:37:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[04-Jun-2021 08:37:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[04-Jun-2021 08:37:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[04-Jun-2021 08:38:54 UTC] PHP Warning:  mkdir(): File exists in /home/odirscom/public_html/asset.com/includes/config.php on line 78
+[04-Jun-2021 14:29:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[04-Jun-2021 14:29:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[04-Jun-2021 14:29:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[04-Jun-2021 14:29:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[04-Jun-2021 14:29:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[04-Jun-2021 14:29:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[04-Jun-2021 14:29:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[04-Jun-2021 14:29:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[04-Jun-2021 14:29:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[04-Jun-2021 14:29:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[04-Jun-2021 14:32:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[04-Jun-2021 14:32:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[04-Jun-2021 14:32:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[04-Jun-2021 14:32:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[04-Jun-2021 14:32:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[04-Jun-2021 14:52:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[04-Jun-2021 14:52:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[04-Jun-2021 14:52:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[04-Jun-2021 14:52:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[04-Jun-2021 14:52:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[04-Jun-2021 14:55:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[04-Jun-2021 14:55:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[04-Jun-2021 14:55:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[04-Jun-2021 14:55:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[04-Jun-2021 14:55:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[04-Jun-2021 15:10:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[04-Jun-2021 15:10:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[04-Jun-2021 15:10:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[04-Jun-2021 15:10:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[04-Jun-2021 15:10:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[05-Jun-2021 11:21:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[05-Jun-2021 11:21:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[05-Jun-2021 11:21:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[05-Jun-2021 11:21:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[05-Jun-2021 11:21:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[05-Jun-2021 11:23:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[05-Jun-2021 11:23:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[05-Jun-2021 11:23:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[05-Jun-2021 11:23:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[05-Jun-2021 11:23:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[05-Jun-2021 11:29:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[05-Jun-2021 11:29:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[05-Jun-2021 11:29:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[05-Jun-2021 11:29:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[05-Jun-2021 11:29:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[05-Jun-2021 14:22:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 6
+[05-Jun-2021 14:22:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 12
+[05-Jun-2021 14:22:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 24
+[05-Jun-2021 14:22:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 30
+[05-Jun-2021 14:22:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/odirscom/public_html/asset.com/ict_admin/loadsubcat.php on line 36
+[14-Jun-2021 00:30:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/odirsorg/public_html/asset.org/asset_manager/includes/header.php on line 125
+[15-Jun-2021 07:13:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 6
+[15-Jun-2021 07:13:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 12
+[15-Jun-2021 07:13:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 18
+[15-Jun-2021 07:13:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 24
+[15-Jun-2021 07:13:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 30
+[15-Jun-2021 07:14:27 UTC] PHP Warning:  mkdir(): File exists in /home/odirsorg/public_html/asset.org/asset_manager/includes/config.php on line 85
+[15-Jun-2021 07:16:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 6
+[15-Jun-2021 07:16:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 12
+[15-Jun-2021 07:16:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 18
+[15-Jun-2021 07:16:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 24
+[15-Jun-2021 07:16:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 30
+[15-Jun-2021 07:17:15 UTC] PHP Warning:  mkdir(): File exists in /home/odirsorg/public_html/asset.org/asset_manager/includes/config.php on line 85
+[15-Jun-2021 07:28:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 6
+[15-Jun-2021 07:28:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 12
+[15-Jun-2021 07:28:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 18
+[15-Jun-2021 07:28:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 24
+[15-Jun-2021 07:28:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 30
+[15-Jun-2021 07:29:30 UTC] PHP Warning:  mkdir(): File exists in /home/odirsorg/public_html/asset.org/asset_manager/includes/config.php on line 85
+[15-Jun-2021 07:30:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 6
+[15-Jun-2021 07:30:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 12
+[15-Jun-2021 07:30:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 18
+[15-Jun-2021 07:30:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 24
+[15-Jun-2021 07:30:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/odirsorg/public_html/asset.org/asset_manager/loadsubcat.php on line 30
+[15-Jun-2021 07:31:16 UTC] PHP Warning:  mkdir(): File exists in /home/odirsorg/public_html/asset.org/asset_manager/includes/config.php on line 85

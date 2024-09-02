@@ -1,0 +1,15 @@
+[27-May-2021 14:17:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/odirscom/public_html/ict_admin/QR/index.php on line 67
+[27-May-2021 14:17:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/odirscom/public_html/ict_admin/QR/index.php on line 67
+[27-May-2021 14:22:04 UTC] PHP Fatal error:  Call to undefined function getUsernameFromEmail() in /home/odirscom/public_html/ict_admin/QR/index.php on line 19
+[27-May-2021 14:22:55 UTC] PHP Fatal error:  Call to undefined function getUsernameFromEmail() in /home/odirscom/public_html/ict_admin/QR/index.php on line 20
+[27-May-2021 14:23:22 UTC] PHP Fatal error:  Call to undefined function getUsernameFromEmail() in /home/odirscom/public_html/ict_admin/QR/index.php on line 20
+[27-May-2021 14:24:51 UTC] PHP Fatal error:  Call to undefined function getUsernameFromEmail() in /home/odirscom/public_html/ict_admin/QR/index.php on line 19
+[27-May-2021 14:26:01 UTC] PHP Fatal error:  Call to undefined function getUsernameFromEmail() in /home/odirscom/public_html/ict_admin/QR/index.php on line 19
+[27-May-2021 14:52:53 UTC] PHP Fatal error:  Call to undefined function getUsernameFromEmail() in /home/odirscom/public_html/ict_admin/QR/index.php on line 24
+[27-May-2021 14:53:52 UTC] PHP Warning:  imagepng(temp/ODIRS/EE/2021/1622092093.png): failed to open stream: No such file or directory in /home/odirscom/public_html/ict_admin/QR/libs/phpqrcode/qrimage.php on line 43
+[27-May-2021 14:55:27 UTC] PHP Warning:  imagepng(temp/ODIRS/EE/2021/1622092093.png): failed to open stream: No such file or directory in /home/odirscom/public_html/ict_admin/QR/libs/phpqrcode/qrimage.php on line 43
+[27-May-2021 14:59:50 UTC] PHP Warning:  imagepng(temp/ODIRS/EE/2021/1622092093.png): failed to open stream: No such file or directory in /home/odirscom/public_html/ict_admin/QR/libs/phpqrcode/qrimage.php on line 43
+[27-May-2021 15:00:16 UTC] PHP Warning:  imagepng(temp/ODIRS/EE/2021/1622092093.png): failed to open stream: No such file or directory in /home/odirscom/public_html/ict_admin/QR/libs/phpqrcode/qrimage.php on line 43
+[27-May-2021 15:14:16 UTC] PHP Warning:  imagepng(ODIRS/EE/2021/1622092093.png): failed to open stream: No such file or directory in /home/odirscom/public_html/ict_admin/QR/libs/phpqrcode/qrimage.php on line 43
+[27-May-2021 15:27:25 UTC] PHP Fatal error:  Call to undefined function getUsernameFromEmail() in /home/odirscom/public_html/ict_admin/QR/index.php on line 14
+[27-May-2021 15:28:30 UTC] PHP Fatal error:  Call to undefined function getUsernameFromEmail() in /home/odirscom/public_html/ict_admin/QR/index.php on line 17

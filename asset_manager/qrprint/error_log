@@ -1,0 +1,1 @@
+[29-May-2021 05:30:50 UTC] PHP Fatal error:  Cannot redeclare displayQR() (previously declared in /home/odirscom/public_html/ict_admin/qrprint/adminasset.php:5) in /home/odirscom/public_html/ict_admin/qrprint/adminasset.php on line 23
